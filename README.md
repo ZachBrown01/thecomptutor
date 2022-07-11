@@ -1,2 +1,3 @@
-# thecomptutor
-my site :)
+# The Computer Tutor
+
+oh we got it
